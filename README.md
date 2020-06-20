@@ -1,4 +1,6 @@
 # gs-gmail-out-of-office
+for https://developers.google.com/apps-script/
+
 Activates the out of office autoresponder in gmail according to calendar event.
 
 Uses event description as ooo message.
