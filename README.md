@@ -10,6 +10,6 @@ Templatetags available:
 - {{starttime}}  => HH:mm
 - {{enddate}}    => dd.MM.yyyy
 - {{endtime}}    => HH:mm
-- {{subject}}{{endsubject}} => gets set as the autoresponder email subject. place anywhere in event description
+- {{subject}}{{endsubject}} => sets the autoresponder email subject. place anywhere in event description
 
 Create Trigger to run go() every hour
