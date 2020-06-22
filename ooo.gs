@@ -59,6 +59,6 @@ function setOutOfOffice(searchstring) {
 }
 
 function go(){
- setOutOfOffice('Abwesend')
+ setOutOfOffice('{{ooo}}')
 }
 
